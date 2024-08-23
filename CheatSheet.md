@@ -6,7 +6,7 @@ This document contains an overview of fundamental concepts and terminology, you 
 
 <img width="671" alt="image" src="https://user-images.githubusercontent.com/10853833/216319332-3d5529e8-abfc-4dab-b9b7-e55c4cba99e5.png">
 
-## Yaml functions
+## Yaml functions ---
 
 | Function                        | Description                                                                                           |
 |---------------------------------|-------------------------------------------------------------------------------------------------------|
